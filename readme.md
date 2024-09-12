@@ -15,7 +15,7 @@ This document outlines the steps to configure TwinCAT XAE for version control us
    ```bash
    git init
   ```
-3.Alternatively, you can use Git GUI tools like TortoiseGit or GitHub Desktop to initialize the repository.
+### 3.Alternatively, you can use Git GUI tools like TortoiseGit or GitHub Desktop to initialize the repository.
 
 ## Step 2: Create a .gitignore File
   ```bash
