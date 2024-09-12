@@ -1,0 +1,51 @@
+# TwinCAT build files
+**/Temp/*
+**/Boot/*
+*.tpy
+*.compiled-library
+*.objects
+*.plcproj.user
+
+# Ignore specific TwinCAT configuration files
+*.tmc
+*.tmproj
+*.tmproj.user
+*.sdf
+
+# Visual Studio build and project files
+*.obj
+*.exe
+*.log
+*.user
+*.suo
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.iobj
+*.ipdb
+
+# TwinCAT Generated Project files
+_tc*
+
+# TwinCAT symbol files
+*_Symbols.c
+*_Server.c
+
+# Auto-generated or machine-specific settings
+.tcposm
+
+# Ignore TwinCAT source control cache
+TcSourceControl.lock
+TcSourceControl.State.xml
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+#add custom file under this line
