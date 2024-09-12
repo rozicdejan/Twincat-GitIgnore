@@ -89,8 +89,8 @@ Add the necessary files to the staging area:
 
 ```bash
 git add .
-Commit the changes with a descriptive message:
 ```
+Commit the changes with a descriptive message:
 ```bash
 git commit -m "Initial commit for TwinCAT project"
 ```
